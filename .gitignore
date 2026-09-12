@@ -1,0 +1,16 @@
+# Dados brutos (grandes demais para o GitHub)
+INMET/
+dataframe_final_estacao_hora.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+Thumbs.db
+.DS_Store
