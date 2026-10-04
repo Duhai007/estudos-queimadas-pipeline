@@ -1,0 +1,11 @@
+metrica,valor
+observacoes_amostra,104313.0
+pseudo_r2_mcfadden,0.242831103748833
+log_verossimilhanca,-24060.938556822388
+log_verossimilhanca_nulo,-31777.505224991342
+fracao_quase_separacao,0.0
+wald_direcao_vento_qui2,2.67972941563731
+wald_direcao_vento_p,0.2618810966485203
+observacoes_janela_completa,444008.0
+pseudo_r2_janela_completa,0.18675326242622714
+fracao_quase_separacao_janela_completa,0.0

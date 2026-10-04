@@ -1,21 +1,21 @@
 etapa,descricao,valor
-2,Estacoes que cobrem os 645 municipios,55.0
-2,Estacoes localizadas fora de SP,15.0
-3,Linhas meteorologicas lidas dos arquivos,4570608.0
-3,Estacoes com arquivo,55.0
-4,Linhas do esqueleto (55 estacoes x 87672 h),4821960.0
-4,Linhas sem nenhum registro nos arquivos,251352.0
+2,Estacoes que cobrem os 645 municipios,55
+2,Estacoes localizadas fora de SP,15
+3,Linhas meteorologicas lidas dos arquivos,4570608
+3,Estacoes com arquivo,55
+4,Linhas do esqueleto (55 estacoes x 87672 h),4821960
+4,Linhas sem nenhum registro nos arquivos,251352
 4,Completude media antes do preenchimento (%),78.54019454134588
 4,Completude media depois do preenchimento (%),81.56943991044892
-5,Focos de calor consolidados,38558.0
-5,Focos fora da janela 16h-18h UTC,0.0
-6,Linhas do dataframe final,4821960.0
-6,Estacao-horas com pelo menos 1 foco,13007.0
-7,Linhas com as 9 variaveis completas,3419559.0
-7,Estacao-horas com foco e variaveis completas,9483.0
-7,Focos nessas estacao-horas,27284.0
-7,Horas de calmaria (direcao zerada),391238.0
-8,Linhas na janela 16h-18h UTC,444008.0
+5,Focos de calor consolidados,38558
+5,Focos fora da janela 16h-18h UTC,0
+6,Linhas do dataframe final,4821960
+6,Estacao-horas com pelo menos 1 foco,13007
+7,Linhas com as 9 variaveis completas,3419559
+7,Estacao-horas com foco e variaveis completas,9483
+7,Focos nessas estacao-horas,27284
+7,Horas de calmaria (direcao zerada),391238
+8,Linhas na janela 16h-18h UTC,444008
 8,Prevalencia de foco na janela (%),2.1357723284265147
-8,Casos na amostra,9483.0
-8,Controles na amostra,94830.0
+8,Casos na amostra,9483
+8,Controles na amostra,94830
