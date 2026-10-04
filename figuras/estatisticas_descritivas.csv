@@ -1,11 +1,11 @@
 ,mean,std,min,max
-"PRECIPITAÇÃO TOTAL, HORÁRIO (mm)",0.0,1.26,-0.29,95.85
-"PRESSAO ATMOSFERICA AO NIVEL DA ESTACAO, HORARIA (mB)",-0.0,3.66,-37.08,31.8
-RADIACAO GLOBAL (KJ/m²),-0.0,1032.71,-1025.6,6205.33
-"TEMPERATURA DO AR - BULBO SECO, HORARIA (°C)",-0.0,5.13,-24.76,19.38
-"UMIDADE RELATIVA DO AR, HORARIA (%)",0.0,19.61,-74.01,37.33
-"VENTO, RAJADA MAXIMA (m/s)",-0.0,2.68,-6.28,44.67
-"VENTO, VELOCIDADE HORARIA (m/s)",0.0,1.35,-2.98,14.06
-tendencia_pressao_3h,-0.01,1.37,-40.0,36.2
-vento_dir_sin,-0.07,0.71,-1.0,1.0
-vento_dir_cos,0.13,0.69,-1.0,1.0
+precipitacao,-0.0,1.25,-0.33,95.86
+pressao,0.0,3.65,-37.07,31.83
+radiacao,0.0,1056.66,-938.02,6262.71
+temperatura,0.0,5.13,-24.76,19.39
+umidade,0.0,19.54,-73.96,38.41
+rajada,-0.0,2.67,-6.36,44.65
+vel_vento,-0.0,1.34,-3.02,14.01
+tend_pressao_3h,-0.02,1.38,-40.0,36.2
+vento_dir_sin,0.08,0.67,-1.0,1.0
+vento_dir_cos,-0.02,0.66,-1.0,1.0
